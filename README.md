@@ -171,3 +171,5 @@ docker push your-docker-username/first-docker-image
 
 ## Congratulations! 🎉 Start Exploring Docker Further 🚀
 
+## Copyright
+© 2025 @iamsandeeepg/Docker. All rights reserved.
